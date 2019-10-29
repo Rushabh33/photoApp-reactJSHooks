@@ -1,0 +1,33 @@
+a {
+  text-decoration: none;
+}
+
+body {
+  color: $primaryFontColor;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  color: $secondaryFontColor;
+  text-transform: uppercase;
+}
+
+h2 {
+  text-transform: capitalize;
+}
+
+
+h3 {
+  word-break: break-word;
+}
+.contentTitle {
+  span {
+    font-weight: 500;
+    font-size: 18px;
+  }
+}
+
+.albumNumber {
+    font-size: 14px;
+    font-weight: 600;
+}

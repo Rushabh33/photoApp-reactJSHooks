@@ -1,0 +1,9 @@
+.photoCards{
+  width: calc((100%/3) - 40px);
+  margin-right: 40px;
+  margin-bottom: 5%;
+
+  img {
+    width: 100%;
+  }
+}

@@ -1,0 +1,10 @@
+.appBanner {
+  height: 25vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: $primaryAccentColor;
+  background: linear-gradient(45deg, rgba(43,16,91,1) 19%, rgba(153,23,123,1) 93%);
+
+  margin-bottom: 5%;
+}
